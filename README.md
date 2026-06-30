@@ -544,11 +544,8 @@ Example:
 http://13.232.xxx.xxx:8000
 ```
 
-Expected Result:
-
-```text
-Todo Application Home Page
-```
+Expected Result: Todo Application Home Page
+![image alt](https://github.com/master-ankitt/todo-app-via-aws-services/blob/0d3c5ce9c1ee246530af67d679703547e782fc7f/image.png)
 
 ---
 
